@@ -58,5 +58,6 @@ Finding objects of daily use: <br />
 <img src="https://user-images.githubusercontent.com/89207778/170882806-59007844-9b6e-40ad-8d8e-d5e06a76e098.jpeg" width = "200">
 <img src="https://user-images.githubusercontent.com/89207778/170882615-4ce459e9-3190-4391-8e70-7ae31d171ec0.jpeg" width = "200">
 
-
+## Downloading 
+Download the app on android device using the [prebuilt apk](https://drive.google.com/file/d/1ZF1L1UY3Nou7caDC9HFkzcvpx3tQN9vr/view?usp=sharing)
 
