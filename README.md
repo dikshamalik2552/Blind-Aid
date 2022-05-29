@@ -6,6 +6,7 @@ and providing audible directions and related information. It helps the user to k
 and can also avoid dangerous situations like bumping into people, objects, or any other type of hindrance.
 
 ## Motivation behind making this app
+
 It aims to make the visually impaired feel empowered and more independent. 
 Since the ears are the second-best sensory organs for visually impaired people after the eyes, providing most of the 
 information to them through audio signals would make their lives easier and more empowered. 
@@ -13,6 +14,7 @@ The Android app based solution can directly work on a smartphone and hence is a 
 It is reliable, portable, economical and no extra devices other than the smartphone are needed by the visually impaired.
 
 ## Salient Features 
+
 1. Object Detection :- In this part of the module, object detection takes place. So by
 this the visually imapired user will be able to identify objects in their surroundings. 
 The camera of the phone opens up and objects are detected. Voice output is given to the user for the detected object.
@@ -24,13 +26,14 @@ So by this feature, the users are given audio commands so that they can safely r
 4. For taking input, the speech command is given and the user just has to tap on the screen making this app easy to use for the blind.
 
 ## Built With 
+
 1. Android Studio - Used to develop Blind Aid (mobile application)
 2. Java - Language used for coding Blind Aid
 3. TensoflowLite - Utilized the [YOLOv4 model implementation](https://github.com/haroonshakeel/tensorflow-yolov4-tflite)(trained on the COCO dataset) for object detection
 4. XML - Language used to design layouts of Blind Aid
 5. Android Speech-to-Text API - Used to handle the audio interaction
 
-## How to run the project
+## How To Run The Project
 
 Step 1: Clone this GitHub Repository. <br />
 Step 2: Download and install Android Studio. <br />
@@ -58,6 +61,7 @@ Finding objects of daily use: <br />
 <img src="https://user-images.githubusercontent.com/89207778/170882806-59007844-9b6e-40ad-8d8e-d5e06a76e098.jpeg" width = "200">
 <img src="https://user-images.githubusercontent.com/89207778/170882615-4ce459e9-3190-4391-8e70-7ae31d171ec0.jpeg" width = "200">
 
-## Downloading 
+## Download The App
+
 Download the app on android device using the [prebuilt apk](https://drive.google.com/file/d/1ZF1L1UY3Nou7caDC9HFkzcvpx3tQN9vr/view?usp=sharing)
 
